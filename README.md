@@ -1,1 +1,1 @@
-# use you mouse as a sling!
+# use mouse as a sling, pull left and release superman!
